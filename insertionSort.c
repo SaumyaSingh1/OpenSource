@@ -11,7 +11,7 @@ fourth iteration: {1,2,3,12,56,7}
 fifth iteration: {1,2,3,7,12,56}*/
 
 #include<stdio.h>
-
+using namespace std;
 void insertionSort(int arr[], int n)
 {
 	int i,element,j;
