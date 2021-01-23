@@ -1,0 +1,25 @@
+
+REMOTE ->
+
+
+
+git remote add __saumya_  https://github.com/SaumyaSingh1/OpenSource
+
+1. Origin ( Forked copy of the original OS proj)
+https://github.com/SaumyaSingh1/OpenSource
+
+
+2. Upstream (Original OS Proj)
+https://github.com/Fpj-11/OpenSource
+
+
+3. git remote add __georgis___    
+
+
+
+MANISH COPY
+	BRANCH1
+	BRANCH2  
+	BRANCH3 - wrote some code (2 new commits)
+	
+	git push origin BRANCH3
